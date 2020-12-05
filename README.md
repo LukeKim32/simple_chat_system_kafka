@@ -1,8 +1,10 @@
-# Cacaotalk_yckim
+# Simple Chat System
 
-이 프로그램을 실행시키기 위해서는
+## Requirements
 
-```localhost:9092``` 에 ```Kafka``` 가 실행되고 있어야 한다.
+1. ```Kafka``` running on ```localhost:9092``` 
+2. ```Java 11.0.9```
+3. ```IntelliJ```
 
 ---
 
